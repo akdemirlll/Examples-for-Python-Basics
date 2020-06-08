@@ -1,0 +1,8 @@
+# There is a recursion method in the function
+def exponential(a,b):
+    if b==0:
+        return 1
+    elif b==1:
+        return a
+    else:
+        return a*exponential(a,b-1)
