@@ -7,3 +7,4 @@ There are some examples in this repository to practice Python basics
 - Fibonacci Series Calculation
 - Temperature Convertor
 - Number Guessing Game
+- Pig Latin Translator
